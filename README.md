@@ -26,4 +26,4 @@ A shot of the Insomnia feedback for getting all categories
 
 ## Resources
 - [Repository](https://github.com/kleylakb89/13-Ecommerce-Back-End)
-- [Walkthrough Video](https://drive.google.com/file/d/18X0qUC-o0d0NHAAzwy4U5tK9MjzQBJA0/view)
+- [Walkthrough Video](https://drive.google.com/file/d/1h0pHQeCB-0VHuSLkv_lEIWwlWHAfDqMM/view?usp=sharing)
